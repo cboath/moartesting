@@ -1,0 +1,22 @@
+.loginContainer {
+  padding: 3%;
+  border: 4px;
+
+}
+
+.entry {
+  width: 70%;
+  border: 2px;
+  text-align: center;
+}
+
+.userid {
+  width: 140px;
+  justify-content: right;
+}
+
+.label {
+  display: inline-block;
+  width: 90px;
+  text-align: left;
+}
