@@ -27,7 +27,7 @@ class Navbar extends Component {
             Test
           </Link>
           <header className={classes.title}>
-            <p>Daugherty Skills Tracker</p>
+            <p>Daugherty Skills Tracker!</p>
           </header>
           {isLoggedIn(false)}
         </div>
