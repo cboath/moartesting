@@ -1,4 +1,12 @@
-.App {
+.loginContainer {
+  padding: 3%;
+  border: 4px;
+
+}
+
+.entry {
+  width: 70%;
+  border: 2px;
   text-align: center;
 }
 
